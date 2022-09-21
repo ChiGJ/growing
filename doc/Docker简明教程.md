@@ -8,7 +8,7 @@
 
 ### 获取镜像
 
-使用`docker pull`命令从网络上下载镜像。
+使用`docker pull`命令从网络上下载镜像，包括镜像名称和镜像版本。
 
     docker pull NAME[:TAG]
     
