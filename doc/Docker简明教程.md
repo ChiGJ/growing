@@ -32,7 +32,7 @@
 
 ### 查看镜像信息
 
-使用`docker images`可以列出本地主机上已有的镜像列表。
+使用`docker images`可以列出本地主机上已有的镜像列表，很清晰。
 
     $ docker images
     REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
